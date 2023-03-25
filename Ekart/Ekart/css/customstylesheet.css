@@ -1,0 +1,18 @@
+﻿#footer1{
+    color:white;
+    background-color:mediumpurple;
+}
+
+#footer1:hover{
+    color:yellow;
+}
+
+.footerlinks{
+    text-decoration: none !important;
+}
+
+.flexbox{
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
